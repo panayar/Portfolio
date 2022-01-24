@@ -25,13 +25,40 @@
 .card-me {
     color: var(--clr-neutral-100);
     background-size: cover;
-    background-image: url(http://drive.google.com/uc?export=view&id=1HWzHcXBsqZkmHFs9t4aHVSZ5VKWkPPMx);
+    background-color: gray;
     padding: 8rem 0 0;
     max-width: 30ch;
     border-radius: 1rem;
     overflow: hidden;
     transition: transform 500ms ease;
 }
+
+
+.project-one {
+    background-image: url(/images/adertic.png);
+}
+
+.project-two {
+  background-image: url(/images/intra.png);
+}
+
+.project-three {
+
+    background-image: url(https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/d9b37981579495.5e998d5b923bc.jpg);
+}
+
+.project-four {
+    background-image: url(https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/d9b37981579495.5e998d5b923bc.jpg);
+}
+
+.project-five {
+    background-image: url(https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/d9b37981579495.5e998d5b923bc.jpg);
+}
+
+.project-six {
+    background-image: url(https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/d9b37981579495.5e998d5b923bc.jpg);
+}
+
 
 .card-me:hover,
 .card-me:focus-within {
