@@ -66,6 +66,7 @@
 }
 
 .card-content {
+    height: 280px;
     --padding: 1.5rem;
     padding: var(--padding);
     background: linear-gradient(hsl(0 0% 0% / 0),

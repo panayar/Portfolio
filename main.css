@@ -37,6 +37,11 @@ section {
 
 }
 
+#porfolio {
+    margin-top: 64px;
+}
+
+
 .contenedor {
     scroll-snap-type: y mandatory;
     height: 100hv;
