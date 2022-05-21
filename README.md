@@ -1,3 +1,3 @@
 ## Porfolio
 
-#link : https://panayar.github.io/panayawebiste.github.io/
+#link :  https://panayar.github.io/Portfolio/
